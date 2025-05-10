@@ -40,19 +40,19 @@ Best color schemes are likely to vary depending on cover art.
 a
 {
 	text-decoration: none;
-	color: #369;
+	/*color: #369;*/
 }
 
 a:visited
 {
 	text-decoration: none;
-	color: #006;
+	/*color: #006;*/
 }
 
 a:hover
 {
 	text-decoration: none;
-	color: #33C;
+	/*color: #33C;*/
 }
 
 .coverimage
@@ -75,7 +75,7 @@ the cover image.
 	font-style: normal;
 	font-variant: normal;
 	font-weight: normal;
-	color: #FFF;
+	color: black;
 }
 
 /* 
