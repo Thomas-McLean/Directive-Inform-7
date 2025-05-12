@@ -7,10 +7,14 @@ Standard CSS file for use with Standard.html and Standard-Source.html.
 
 body
 {
-	font-family: Georgia, Palatino, "Times New Roman", Times, serif;
+	font-family: "Roboto Condensed", sans-serif;
 	font-size: 100%;
 	-webkit-text-size-adjust: none;
-	background: black;
+  	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
+	background-color: black;
+  	color: white;
 }
 
 .container
