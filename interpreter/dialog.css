@@ -94,7 +94,7 @@
   overflow-x: hidden; /* but horizontal scrollbar is forbidden */
   font-size: 14px;
   white-space: pre-wrap;
-  background: #FED;
+  background: #black;
 }
 
 /* End of Dialog default stylesheet. */
