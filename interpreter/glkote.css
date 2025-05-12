@@ -53,7 +53,7 @@
      can change that, but don't touch the position or margin. */
   position: absolute;
   margin: 0px;
-  background: #808080;
+  background: #2b2b2b;
 }
 
 .BufferWindow {
@@ -135,7 +135,7 @@
   padding: 0px;
   outline-width: 0px;
   outline-style: none;
-  background: black;
+  background: #2b2b2b;
   font-weight: bold;
 }
 
