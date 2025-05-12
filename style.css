@@ -420,8 +420,8 @@ Styles for play.html
 
 #gameport
 {
-	background-color: black;
-	color: white;
+	background: black;
+	text-decoration-color: white;
 	bottom: 0px;
 	left: 15.4em;
 	line-height: 1.4;
