@@ -70,7 +70,7 @@
 }
 
 .GridWindow {
-  background: #D0D0C0;
+  background: black;
   overflow: hidden;
   font-family: monaco, andale mono, lucidatypewriter, courier, courier new, monospace; /* necessary! */
   font-size: 14px;
