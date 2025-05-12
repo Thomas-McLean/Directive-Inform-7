@@ -73,7 +73,7 @@ the cover image.
 	font-style: normal;
 	font-variant: normal;
 	font-weight: normal;
-	color: #FFF;
+	color: #000;
 }
 
 /* 
@@ -414,7 +414,7 @@ Styles for play.html
 
 #gameport
 {
-	background: white;
+	background: black;
 	bottom: 0px;
 	left: 15.4em;
 	line-height: 1.4;
