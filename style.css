@@ -29,7 +29,7 @@ source paragraphs.
 
 p
 {
-	font-size: 2em;
+	font-size: 1em;
 	line-height: 1.4;
 }
 
@@ -113,8 +113,8 @@ to represent the game, we need only add the line "display: none;" to the
 definition of h1.
 
 */
-h1 { font-size: 4em;  }
-h2 { font-size: 2em; line-height: .25;}
+h1 { font-size: 2em;  }
+h2 { font-size: 1em; line-height: .25;}
 
 /* The about formatting applies to blurb information. */
 
