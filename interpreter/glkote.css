@@ -108,8 +108,8 @@
      of a window when it needs paging. */
   font-weight: bold;
   position: absolute;
-  background: #603010;
-  color: #FFFFCC;
+  background: black;
+  color: #8fde5d;
   opacity: 0.5;
   padding: 2px 6px;
   -webkit-border-radius: 4px;
@@ -120,7 +120,7 @@
   /* This describes the small horizontal mark that appears in a window
      when it needs paging. */
   position: absolute;
-  background: #B09888;
+  background: black;
   height: 2px;
   width: 12px;
   top: 0px;
