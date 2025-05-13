@@ -412,7 +412,7 @@ Styles for play.html
 .play .smalltitle
 {
 	font-size: 200%;
-	font-weight: 400%;
+	font-weight: bold;
 }
 .interpretercredit
 {
