@@ -113,7 +113,7 @@ to represent the game, we need only add the line "display: none;" to the
 definition of h1.
 
 */
-h1 { font-size: 2em;  }
+h1 { font-size: 3em;  }
 h2 { font-size: 1em; line-height: .25;}
 
 /* The about formatting applies to blurb information. */
