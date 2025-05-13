@@ -142,7 +142,7 @@
 .BufferWindow .Input {
   font-family: "Roboto Condensed", sans-serif;
   font-size: 15px;
-  color: 8fde5d;
+  color: #8fde5d;
 }
 
 .GridWindow .Input {
@@ -186,6 +186,7 @@
 /* The following are the standard Glk styles. */
 
 .Style_normal {
+  font-family: "Roboto Condensed", sans-serif;
 }
 
 .Style_emphasized {
