@@ -187,10 +187,13 @@
 
 .Style_normal {
   font-family: "Roboto Condensed", sans-serif;
+  line-height: 150%;
 }
 
 .Style_emphasized {
+  font-family: "Roboto Condensed", sans-serif;
   font-style: italic;
+  line-height: 150%;
 }
 
 .Style_preformatted {
