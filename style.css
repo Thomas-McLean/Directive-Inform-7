@@ -409,7 +409,11 @@ Styles for play.html
 	margin-top: 200px;
 	position: fixed;
 }
-
+.play .smalltitle
+{
+	font-size: 200%;
+	font-weight: 400%;
+}
 .interpretercredit
 {
 	bottom: 1em;
