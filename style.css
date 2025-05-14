@@ -177,6 +177,9 @@ side of the page.
 	list-style-position: default;
 	padding: .4 em;
 }
+a {
+	font-weight: bold;
+}
 
 /* 
 The filetype id applies only to the little (blorb), (pdf), and similar
