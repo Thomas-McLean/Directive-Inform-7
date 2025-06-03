@@ -1,0 +1,26 @@
+WARNING: This guide skips over a lot of the more literary elements of the work, and focuses instead on the bare minimum requirements to reach the story's best ending. This guide exists solely to aid in the grading of this work, and should not be relied upon for a complete experience.
+
+The commands are as follows:
+
+look
+take control
+take box
+take letter
+take key
+read letter
+go east
+look under the bed
+go east
+go south
+place the box
+search the bookshelf
+take book
+read diary
+keep reading
+keep reading
+go east
+search the cupboard
+go west
+go west
+examine the mound
+go west
